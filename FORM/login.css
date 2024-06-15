@@ -1,0 +1,65 @@
+body{
+    background-image: url(pngtree-blue-sky-and-white-clouds-good-weather-and-clouds-image_1012889.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.container {
+    max-width: 480px;
+    min-width: 350px;
+    box-shadow: 1px 1px 4px;
+    text-align: center;
+    height: auto;
+    position: relative;
+    left: 500px;
+    top: 150px;
+    width: 350px;
+}
+input.one {
+    margin-top: 30px;
+    padding: 4px;
+    width: 300px;
+    height: 25px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+input.two {
+    padding: 4px;
+    width: 300px;
+    height: 25px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+input.three {
+    margin-top: 25px;
+    padding: 4px;
+    width: 80px;
+    background: #ffa500;
+    color: white;
+    position:relative ;
+    bottom: 15px;
+}
+.p1{
+    color: red;
+    margin: 0px;
+}
+.btn1 {
+    padding: 8px;
+    position: relative;
+    top: 8px;
+    width: 80px;
+    margin-right: 25px;
+    font-size: 14px;
+    background: deepskyblue;
+    color: white;
+}
+.btn2 {
+    /* color: blue; */
+    padding: 8px;
+    position: relative;
+    top: 8px;
+    width: 80px;
+    margin-right: 25px;
+    font-size: 14px;
+    background: deepskyblue;
+    color: white;
+}

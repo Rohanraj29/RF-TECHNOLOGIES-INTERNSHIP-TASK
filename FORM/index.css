@@ -1,0 +1,97 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background-image: url(imgbin-blue-sky-nature-5xmTeyMyR7DBgf8fXTdNQbLdA.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.container {
+    max-width: 480px;
+    min-width: 350px;
+    box-shadow: 1px 1px 4px;
+    text-align: center;
+    height: auto;
+    position: relative;
+    left: 400px;
+    top: 150px;
+    width: 480px;
+}
+.btn1 {
+    padding: 8px;
+    position: relative;
+    top: 8px;
+    width: 80px;
+    margin-right: 25px;
+    font-size: 14px;
+    background: deepskyblue;
+    color: white;
+}
+.btn2 {
+    /* color: blue; */
+    padding: 8px;
+    position: relative;
+    top: 8px;
+    width: 80px;
+    margin-right: 25px;
+    font-size: 14px;
+    background: deepskyblue;
+    color: white;
+}
+h2:hover{
+    position: relative;
+    top: 8px;
+    text-decoration: underline green;
+}
+input.one {
+    margin-top: 30px;
+    padding: 4px;
+    width: 300px;
+    height: 25px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+input.two {
+    margin-top: 30px;
+    padding: 4px;
+    width: 300px;
+    height: 25px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+input.three {
+    margin-top: 30px;
+    padding: 4px;
+    width: 300px;
+    height: 25px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+input.four {
+    position: relative;
+    right: 28px;
+    margin-top: 25px;
+    font-size: 14px;
+}
+span {
+    position: relative;
+    right: 18px;
+}
+input.five {
+    margin-top: 25px;
+    padding: 4px;
+    width: 80px;
+    background: #ffa500;
+    color: white;
+}
+#p1{
+    margin: 0px;
+    color: red;
+    text-align: left;
+}
+#p2{
+    margin: 0px;
+    color: red;
+}
+#p3{
+    margin: 0px;
+    color: red;
+}
